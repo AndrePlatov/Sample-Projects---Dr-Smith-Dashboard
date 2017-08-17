@@ -1,4 +1,4 @@
-# Sample-Projects---Dr-Smith-Dashboard
+# Sample Projects - Dr. Smith's Dashboard
 DRAFT
 
 Hello! Welcome to Dr. Smith's Dashboard, a sample project for demonstrating my professional skills and knowledge. 
